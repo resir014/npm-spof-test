@@ -1,7 +1,7 @@
 {
   "name": "npm-spof-test",
   "version": "0.0.3",
-  "description": "Source code for resir014.github.io",
+  "description": "npm's single point of failure - illustrated.",
   "repository": {
     "type": "git",
     "url": "https://github.com/resir014/npm-spof-test.git"
