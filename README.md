@@ -20,11 +20,11 @@ spof.print()
 
 ## Testing procedure
 
-1. I publish this package into the npm registry under version 0.0.3.
-2. I make a small app which depends on this package, and made a quick script which runs the print function.
-3. I unpublish it, and make sure that the package is no longer downloadable after unpublishing.
-4. Someone else forks the package, changes what prints out, and republishes it under version 0.0.4.
-5. I'll try redownloading the package into the app and see if it affects.
+1. I'll publish this package into the npm registry.
+2. I'll make a small app which depends on this package, and made a quick script which runs the print function.
+3. I'll unpublish it, and make sure that the package is no longer downloadable after unpublishing.
+4. Someone else will then fork the package, changes what prints out, and republishes it with the patch version incremented.
+5. I'll try redownloading the package into the app and see if it affects the print function.
 
 ## License
 
