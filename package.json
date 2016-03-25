@@ -1,0 +1,15 @@
+{
+  "name": "npm-spof-test",
+  "version": "0.0.3",
+  "description": "Source code for resir014.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resir014/npm-spof-test.git"
+  },
+  "author": "Resi Respati <resir014@gmail.com>",
+  "main": "./lib/spof.js",
+  "license": "WTFPL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
