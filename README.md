@@ -1,6 +1,6 @@
 # npm-spof-test
 
-> npm's single point of failure - illustrated.
+> npm's [single point of failure](https://resir014.github.io/2016/03/23/npms-single-point-of-failure/) - illustrated.
 
 ## Installation
 
@@ -28,4 +28,4 @@ spof.print()
 
 ## License
 
-WTFPL.
+[WTFPL.](https://github.com/resir014/npm-spof-test/blob/master/LICENSE)
